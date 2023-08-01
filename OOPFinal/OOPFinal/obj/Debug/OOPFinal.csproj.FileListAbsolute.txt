@@ -1,0 +1,13 @@
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\bin\Debug\OOPFinal.exe.config
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\bin\Debug\OOPFinal.exe
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\bin\Debug\OOPFinal.pdb
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.Properties.Resources.resources
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.exe
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.pdb
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.giris.resources
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.personelIslem.resources
+C:\Users\muham\source\repos\OOPFinal\OOPFinal\obj\Debug\OOPFinal.birimIslem.resources
